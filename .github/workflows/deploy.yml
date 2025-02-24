@@ -28,7 +28,7 @@ jobs:
 
       - run: yarn install
 
-      - run: yarn build:prd
+      - run: yarn build
 
       - name: Set GitHub Deployment Environment
         id: github_deployment_environment
