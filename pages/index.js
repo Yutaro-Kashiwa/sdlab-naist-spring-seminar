@@ -15,7 +15,18 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-      </main>
+       <h3>Contributors:</h3>
+       <table border="1">
+         <tr>
+           <th>名前</th>
+           <th>貢献日時</th>
+         </tr>
+         <tr>
+           <td>柏</td>
+           <td>2025/2/24</td>
+         </tr>
+       </table>      
+</main>
       <Footer />
     </div>
   )
