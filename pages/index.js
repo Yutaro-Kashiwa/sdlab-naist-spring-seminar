@@ -22,6 +22,10 @@ export default function Home() {
            <th>貢献日時</th>
          </tr>
          <tr>
+           <td>柏 祐太郎</td>
+           <td>2025/2/25</td>
+         </tr>
+         <tr>
            <td>大沼奏太</td>
            <td>2025/2/25</td>
          </tr>
