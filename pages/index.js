@@ -18,7 +18,7 @@ export default function Home() {
        <h3>Contributors:</h3>
        <table border="1">
          <tr>
-           <th>名前aasda</th>
+           <th>名前aasa</th>
            <th>貢献日時</th>
          </tr>
          <tr>
