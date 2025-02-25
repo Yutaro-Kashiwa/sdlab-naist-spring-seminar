@@ -18,13 +18,15 @@ export default function Home() {
        <h3>Contributors:</h3>
        <table border="1">
          <tr>
-           <th>Horikawa</th>
-           <th>2025-02-25</th>
+           <th>名前</th>
+           <th>日時</th>
          </tr>
          <tr>
            <td>柏 祐太郎</td>
            <td>2025/2/25</td>
-         </tr>
+           <td>堀川 康生</td>
+           <td>2025/2/25</td>
+	 </tr>
        </table>      
 </main>
       <Footer />
